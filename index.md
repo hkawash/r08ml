@@ -11,7 +11,7 @@
 |回 |日付 |トピック|
 |---|---|---|
 |1 |2026/04/08 |[機械学習の概要](slide/MachineLearning2026_01.pdf) / [副教材1](slide/ml2026intro_01.pdf)|
-|2 |2026/04/15 |確率モデルと機械学習|
+|2 |2026/04/15 |[確率モデルと機械学習](slide/MachineLearning2026_02.pdf) / [副教材2](slide/ml2026intro_02.pdf)|
 |3 |2026/04/22 |教師あり学習（回帰モデル）|
 |4 |2026/05/13 |教師あり学習（分類モデル）|
 |5 |2026/05/20 |アンサンブル学習|
@@ -39,7 +39,6 @@
 
 <!-- |回 |日付 |トピック|
 |---|---|---|
-|2 |2026/04/15 |[確率モデルと機械学習](slide/MachineLearning2026_02.pdf) / [副教材2](slide/ml2026intro_02.pdf)|
 |3 |2026/04/22 |[教師あり学習（回帰モデル）](slide/MachineLearning2026_03.pdf) / [副教材3](slide/ml2026intro_03.pdf)|
 |4 |2026/05/13 |[教師あり学習（分類モデル）](slide/MachineLearning2026_04.pdf) / [副教材4](slide/ml2026intro_04.pdf)|
 |5 |2026/05/20 |[アンサンブル学習](slide/MachineLearning2026_05.pdf) / [副教材5](slide/ml2026intro_05.pdf) / [レポート1解答](slide/MachineLearning2026_report1_answer.pdf) / [宿題解答](slide/MachineLearning2026_04-05_suppl.pdf)|
