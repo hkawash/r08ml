@@ -16,9 +16,9 @@
 |4 |2026/05/13 |[教師あり学習（分類モデル）](slide/MachineLearning2026_04.pdf) / [副教材4](slide/ml2026intro_04.pdf)|
 |5 |2026/05/20 |[アンサンブル学習](slide/MachineLearning2026_05.pdf) / [副教材5](slide/ml2026intro_05.pdf) / [レポート1解答](slide/MachineLearning2026_report1_answer.pdf) / [宿題解答](slide/MachineLearning2026_04-05_suppl.pdf)|
 |6 |2026/05/27 |[演習1](slide/MachineLearning2026_06.pdf)|
-|7 |2026/06/03 |[ニューラルネットの基礎](slide/MachineLearning2026_07.pdf) / [副教材6](slide/ml2026intro_06.pdf)|
+|7 |2026/06/03 |[ニューラルネットの基礎](slide/MachineLearning2026_07.pdf) / [副教材6](slide/ml2026intro_06.pdf) / [宿題1解答](slide/MachineLearning2026_07_hw1.pdf)|
 |8 |2026/06/10 |[ディープラーニング（深層学習）](slide/MachineLearning2026_08.pdf)|
-|9 |2026/06/17 |演習2|
+|9 |2026/06/17 |[演習2](slide/MachineLearning2026_09.pdf)|
 |10|2026/06/24 |畳み込みニューラルネット|
 |11|2026/07/01 |演習3|
 |12|2026/07/08 |生成モデル|
@@ -39,9 +39,6 @@
 
 <!-- |回 |日付 |トピック|
 |---|---|---|
-|7 |2026/06/03 |[ニューラルネットの基礎](slide/MachineLearning2026_07.pdf) / [副教材6](slide/ml2026intro_06.pdf) / [宿題1解答](slide/MachineLearning2026_07_hw1.pdf)|
-
-|9 |2026/06/17 |[演習2](slide/MachineLearning2026_09.pdf)|
 |10|2026/06/24 |[畳み込みニューラルネット](slide/MachineLearning2026_10.pdf)|
 |11|2026/07/01 |[演習3](slide/MachineLearning2026_11.pdf)|
 |12|2026/07/08 |[生成モデル](slide/MachineLearning2026_12.pdf)|
